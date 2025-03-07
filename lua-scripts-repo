@@ -1,12 +1,12 @@
 [
-    {
-        "name": "Script 1",
-        "tags": "game, utility",
-        "code": "print('Hello World!')"
-    },
-    {
-        "name": "Script 2",
-        "tags": "automation, tool",
-        "code": "print('Automation script')"
-    }
+  {
+    "name": "Script 1",
+    "tags": "game, utility",
+    "code": "print('Hello World!')"
+  },
+  {
+    "name": "Script 2",
+    "tags": "automation, tool",
+    "code": "print('Automation script')"
+  }
 ]
