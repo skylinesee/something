@@ -8,5 +8,15 @@
     "name": "Script 2",
     "tags": "automation, tool",
     "code": "print('Automation script')"
+  },
+  {
+    "name": "Script 2",
+    "tags": "automation, tool",
+    "code": "print('Automation script')"
+  },
+  {
+    "name": "Script 2",
+    "tags": "automation, tool",
+    "code": "print('Automation script')"
   }
 ]
